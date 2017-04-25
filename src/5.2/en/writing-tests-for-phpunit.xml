@@ -921,7 +921,7 @@ Tests: 1, Assertions: 1, Failures: 1.]]></screen>
       and provide a few lines of context around every difference.
     </para>
     <example id="writing-tests-for-phpunit.error-output.examples.LongArrayDiffTest.php">
-      <title>Error output when an array comparison of an long array fails</title>
+      <title>Error output when an array comparison of a long array fails</title>
       <programlisting><![CDATA[<?php
 class LongArrayDiffTest extends PHPUnit_Framework_TestCase
 {
